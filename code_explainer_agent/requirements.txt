@@ -1,0 +1,40 @@
+# Core Dependencies
+numpy>=1.20.0
+requests>=2.25.1
+pydantic>=1.10.0
+python-dotenv>=0.19.0
+
+# Code Analysis
+astor>=0.8.1
+astunparse>=1.6.3
+
+# LangChain and LangGraph
+langgraph>=0.0.10
+langchain>=0.0.350
+
+# Hugging Face
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=2.0.0
+
+# Web Framework
+streamlit>=1.24.0
+fastapi>=0.95.0
+uvicorn>=0.21.0
+python-multipart>=0.0.6
+
+# Development
+black>=22.3.0
+mypy>=0.991
+pytest>=7.2.0
+transformers>=4.30.0
+
+# Web Framework (for API)
+fastapi>=0.95.0
+uvicorn>=0.21.1
+python-multipart>=0.0.6
+
+# Development
+black>=22.3.0
+mypy>=0.991
+pytest>=7.2.0
